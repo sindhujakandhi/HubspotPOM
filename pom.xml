@@ -32,8 +32,8 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/Testrunner/testng_regression.xml</suiteXmlFile>
-						<suiteXmlFile>src/test/resources/TestRunner/testing_sanity.xml</suiteXmlFile>
+						<suiteXmlFile>src/test/resources/TestRunner/testng_regression.xml</suiteXmlFile>
+						 <suiteXmlFile>src/test/resources/TestRunner/testing_sanity.xml</suiteXmlFile> 
 					</suiteXmlFiles>
 				</configuration>
 
