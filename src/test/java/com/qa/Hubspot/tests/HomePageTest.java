@@ -50,12 +50,12 @@ public class HomePageTest {
 	
 	
 	
-	@Test(priority = 3)
-	public void verifyContactsTest() {
-		homePage.clickOnContactsLink();
-		
-		
-	}
+//	@Test(priority = 3)
+//	public void verifyContactsTest() {
+//		homePage.clickOnContactsLink();
+//		
+//		
+//	}
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
